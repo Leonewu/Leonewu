@@ -15,6 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## About me
+- :cat2: I’m a Front-end developer
+- 🌱 I’m currently learning `Jenkins` **docker**
+
 ![](https://github-readme-stats.vercel.app/api?username=Leonewu&theme=tokyonight&show_icons=true&custom_title=Leone's+GitHub+Stats)
 
 ## Languages
