@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## :fire: About me
 - :art: I’m a Front-End developer
 - :office: I’am working in Guangzhou.
-- 🌱 I’m currently concentrating on **Jenkins** **source code**
+- 🌱 I’m currently concentrating on **web**
 - :ramen: I’m keeping pace with the trend of Front-End
 - :fish_cake: I love everything that can broaden my horizon. philosophy, tech, efficient tools...
 
