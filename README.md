@@ -16,8 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ## About me
-- :cat2: I’m a Front-end developer
-- 🌱 I’m currently learning `Jenkins` **docker**
+- :art: I’m a Front-End developer
+- 🌱 I’m currently learning **Jenkins** **docker**
+- :ramen: I’m keeping the pace with the trend of Front-End
+- ⚡ Fun fact: I love everything that can broaden my horizon. philosophy, tech, efficient tools...
 
 ![](https://github-readme-stats.vercel.app/api?username=Leonewu&theme=tokyonight&show_icons=true&custom_title=Leone's+GitHub+Stats)
 
