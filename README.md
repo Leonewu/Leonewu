@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - :office: I’am working in Guangzhou.
 - 🌱 I’m currently concentrating on **web**
 - :ramen: I’m keeping pace with the trend
-- :fish_cake: I love everything that can broaden my horizon. philosophy, tech, efficient tools...
+- :fish_cake: I love everything that can broaden my horizon. history, philosophy, psychology, tech, medical, efficient tools...
 
 ![](https://github-readme-stats.vercel.app/api?username=Leonewu&theme=tokyonight&show_icons=true&custom_title=Leone's+GitHub+Stats)
 
