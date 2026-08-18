@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ## :fire: About me
-🎨 Frontend Developer
-🏢 Guangzhou
-🍜 Keeping up with the latest tech
-🍥 Always looking for things that broaden my horizons
+- 🎨 Frontend Developer
+- 🏢 Guangzhou
+- 🍜 Keeping up with the latest tech
+- 🍥 Always looking for things that broaden my horizons
 
 ![](https://github-readme-stats.vercel.app/api?username=Leonewu&theme=tokyonight&show_icons=true&custom_title=Leone's+GitHub+Stats)
 
