@@ -16,11 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ## :fire: About me
-- :art: I’m a Front-End developer
-- :office: I’am working in Guangzhou.
-- 🌱 I’m currently concentrating on **web**
-- :ramen: I’m keeping pace with the trend
-- :fish_cake: Won't miss anything that can broaden my horizon.
+🎨 Frontend Developer
+🏢 Guangzhou
+🍜 Keeping up with the latest tech
+🍥 Always looking for things that broaden my horizons
 
 ![](https://github-readme-stats.vercel.app/api?username=Leonewu&theme=tokyonight&show_icons=true&custom_title=Leone's+GitHub+Stats)
 
