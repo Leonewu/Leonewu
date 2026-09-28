@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 ## :fire: About me
 - 🎨 Frontend Developer
-- 🏢 Guangzhou
 - 🍜 Keeping up with the latest tech
 - 🍥 Always looking for things that broaden my horizons
 
